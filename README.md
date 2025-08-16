@@ -1,4 +1,4 @@
-# 🧮 Advanced Python Calculator  
+#  Advanced Python Calculator  
 
 A **modern and user-friendly command-line calculator** built with Python.  
 This calculator supports multiple operations like addition, subtraction, multiplication, division, exponentiation, and average calculation — with error handling and a clean interactive menu.  
